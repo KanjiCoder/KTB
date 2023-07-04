@@ -1,0 +1,66 @@
+//+==========================================================+// // [001]
+//| Code Section Is Below This Point                         |// // [001]
+//+==========================================================+// // [001]
+//|#_KANJIS_TILEMAP_BASE_#:==================================|// // [001]
+//|                                                          |// // [001]
+//|  @KTB@ : Kanji_Tilemap_Base / Kanjis_Tilemap_Base        |// // [001]
+//|                                                          |// // [001]
+//|  A project to allow you to quickly experiment with       |// // [001]
+//|  tilemap shader ideas without having to do all of        |// // [001]
+//|  the setup code needed to create the webgl contexts      |// // [001]
+//|  and basic editing code for setting down tiles.          |// // [001]
+//|                                                          |// // [001]
+//+==================================:#_KANJIS_TILEMAP_BASE_#+// // [001]
+                                                                 // [001]
+                                                                 // [001]
+window.alert( "[HELLO_WORLD]" );                                 // [001]
+                                                                 // [001]
+                                                                 // [001]
+//+==========================================================+// // [001]
+//| Code Section Is Above This Point                         |// // [001]
+//+==========================================================+// // [001]
+//+==========================================================+// // [001]
+//| Comments Section Is Below This Point                     |// // [001]
+//+==========================================================+// // [001]
+/** ******************************************************** *** // [001]
+#_KANJIS_TILEMAP_BASE_# :======================================: // [001]
+                                                                 // [001]
+    Goal : Create a tilemap project who's source code            // [001]
+         : can be used any time you want to do a quick           // [001]
+         : tilemap rendering experiment. It should be            // [001]
+         : flexible enough to use is as a library that           // [001]
+         : can be used for the[ MKB ]project.                    // [001]
+         : @MKB@ : Magic Kyoot Ball.                             // [001]
+                                                                 // [001]
+    Structure : 1 shader for tilemap stuff                       // [001]
+              : 1 shader for sprite rendering stuff.             // [001]
+              : 1 shader for tilemap menu stuff                  // [001]
+              : 1 shader for sprite MENU rendering.              // [001]
+                                                                 // [001]
+    Uniforms  : Only 4 uniforms. 1 for each texture              // [001]
+              : sampler we need. Everything else is              // [001]
+              : encoded into texture memory somehow.             // [001]
+                                                                 // [001]
+    Whatever Texture Memory Block :                              // [001]
+                                                                 // [001]
+        @wmx@ : whatever_memory - X origin                       // [001]
+        @wmy@ : whatever_memory - Y origin                       // [001]
+                                                                 // [001]
+                                                                 // [001]
+:======================================: #_KANJIS_TILEMAP_BASE_# // [001]
+*** ******************************************************** **/ // [001]
+//+==========================================================+// // [001]
+//| Comments Section Is Above This Point                     |// // [001]
+//+==========================================================+// // [001]
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
