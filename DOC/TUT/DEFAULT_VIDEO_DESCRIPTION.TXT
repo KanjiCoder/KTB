@@ -1,0 +1,6 @@
+SOURCE CODE : www.github.com/KanjiCoder/KTB
+KTB : Kanji_Tilemap_Base
+
+A WebGL2 JavaScript library that allows you to sketch out rendering code ideas for tilemaps quickly and effectively. I do a lot of bit-packing of data into 32-bit integers encoded within pixels. These pixels store tile data. There are many fun and interesting ways you can interpret the bits of a 32-bit number for interesting rendering effects. Games like minecraft simply map integers to tile types, but you can get MORE INTERESTING RESULTS if you think of the 32-bits as instructions and data.
+
+Say "HI" on twitch! www.twitch.tv/KanjiCoder
