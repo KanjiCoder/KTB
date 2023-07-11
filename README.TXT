@@ -8,15 +8,16 @@
 
     KTB_001 : JUL 10, 2023 (MON) youtube.com/shorts/12gOrfXbSME
     KTB_002 : JUL 11, 2023 (TUE) youtube.com/shorts/97DFV95sG3E
-    KTB_003 : JUL 12, 2023 (WED)
-    KTB_004 : JUL 13, 2023 (THU)
-    KTB_005 : JUL 14, 2023 (FRI)
-    KTB_006 : JUL 15, 2023 (SAT)
-    KTB_007 : JUL 16, 2023 (SUN)
+
+    KTB_003 : JUL 12, 2023 (WED) youtube.com/shorts/0HdPbmFOgfY
+    KTB_004 : JUL 13, 2023 (THU) youtube.com/shorts/PBd1xYOB0mA
+    KTB_005 : JUL 14, 2023 (FRI) https://youtube.com/shorts/HG2rS62M5eA
+    KTB_006 : JUL 15, 2023 (SAT) https://youtube.com/shorts/86QzYo4V5A0
+    KTB_007 : JUL 16, 2023 (SUN) https://youtube.com/shorts/66cgdVI8r4s
                            
-    KTB_008 : JUL 17, 2023 (MON)
-    KTB_009 : JUL 18, 2023 (TUE)
-    KTB_010 : JUL 19, 2023 (WED)
+    KTB_008 : JUL 17, 2023 (MON) https://youtube.com/shorts/zkU4vpjAOt0
+    KTB_009 : JUL 18, 2023 (TUE) https://youtube.com/shorts/fkSyQZweEAA
+    KTB_010 : JUL 19, 2023 (WED) https://youtube.com/shorts/cE90qws-klI
     KTB_011 : JUL 20, 2023 (THU)
     KTB_012 : JUL 21, 2023 (FRI)
     KTB_013 : JUL 22, 2023 (SAT)
